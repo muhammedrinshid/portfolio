@@ -1,13 +1,34 @@
-body {
+  @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@layer components {
+  .max-container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .button1{
+    @apply text-secondary font-light text-base  border-secondary border-opacity-50 border py-2 px-4 flex justify-between items-center gap-1 rounded-lg
+  }
+}
+
+@layer utilities {
+
+  .padding-x {
+    @apply sm:px-16 px-8;
+  }
+  .covering {
+    @apply text-base  bg-secondary bg-opacity-10  text-secondary font-semibold inline rounded-xl w-fit px-6 py-2 max-md:text-sm
+  }
+
 }

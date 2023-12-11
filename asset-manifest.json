@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a33cd120.css",
+    "main.js": "/portfolio/static/js/main.c2b4a984.js",
+    "static/media/universitywebsite.png": "/portfolio/static/media/universitywebsite.7c3034985de09db615c6.png",
+    "static/media/minatravelsWebsite.png": "/portfolio/static/media/minatravelsWebsite.782f900b4637bd14c7d3.png",
+    "static/media/gpt_3website.png": "/portfolio/static/media/gpt_3website.e167267b6f04ad31a5bf.png",
+    "static/media/Nikewebiste.png": "/portfolio/static/media/Nikewebiste.7346ad3536693d5fe621.png",
+    "static/media/shadientwebsite.png": "/portfolio/static/media/shadientwebsite.cdacc6377a91e4741b85.png",
+    "static/media/IMG_20231207_214043.jpg": "/portfolio/static/media/IMG_20231207_214043.3d5c591f2f08b5df862d.jpg",
+    "static/media/IMG_20231207_213914.jpg": "/portfolio/static/media/IMG_20231207_213914.936589a617fadc2a0729.jpg",
+    "static/media/IMG_20231207_213943.jpg": "/portfolio/static/media/IMG_20231207_213943.dfd2562f8067d2ab37e9.jpg",
+    "static/media/mina assist admin dashboard.png": "/portfolio/static/media/mina assist admin dashboard.eec19ccec6eecbd5912f.png",
+    "static/media/hero_avatar.png": "/portfolio/static/media/hero_avatar.ab5c357e0f43d5f71e52.png",
+    "static/media/minaAssistwebsite.png": "/portfolio/static/media/minaAssistwebsite.e3c113c375a7426955e7.png",
+    "static/media/studybudWebsite.png": "/portfolio/static/media/studybudWebsite.a76801c92f7a4d470bcd.png",
+    "static/media/rinshid img.png": "/portfolio/static/media/rinshid img.bb362785de13d5331ba6.png",
+    "static/media/admindashboardWebsite.png": "/portfolio/static/media/admindashboardWebsite.08f20a29986344a56d51.png",
+    "index.html": "/portfolio/index.html",
+    "static/media/DesignIcon.svg": "/portfolio/static/media/DesignIcon.d0426aafb96c9a1ce7c96fc7efc63808.svg",
+    "static/media/ProjectsIcon.svg": "/portfolio/static/media/ProjectsIcon.5822d21ea02a92c49b3507d3b0e9ff2d.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.f6d95138e22a600ea866c15758863fa0.svg",
+    "static/media/CodeIcon.svg": "/portfolio/static/media/CodeIcon.c256a6b9417d0d53e0bf12bd6e36bc6c.svg",
+    "static/media/linkedin-in.svg": "/portfolio/static/media/linkedin-in.7bf9235006b4d74767ee9845073d74a7.svg",
+    "main.a33cd120.css.map": "/portfolio/static/css/main.a33cd120.css.map",
+    "main.c2b4a984.js.map": "/portfolio/static/js/main.c2b4a984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a33cd120.css",
+    "static/js/main.c2b4a984.js"
+  ]
+}
